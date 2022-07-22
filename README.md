@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-### This project is about using different machine learning algorithms to determine the price of flight tickets. There are different attributes which affect the price of flight tickets which are departure date and time , arrival date and time , source city and the destination city , the number of stops and the different airlines prefered by people.
+This project is about using different machine learning algorithms to determine the price of flight tickets. There are different attributes which affect the price of flight tickets which are departure date and time , arrival date and time , source city and the destination city , the number of stops and the different airlines prefered by people.
 
 ## Approach
 1. Data Exploration : Getting an idea about the data , type of features , number of categorical and numerica variables and creating plots to get a better understanding of the data.
